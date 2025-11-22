@@ -27,3 +27,6 @@ This Chrome extension allows you to rename any browser tab to a custom title. It
 The extension will now appear in your Chrome toolbar.
 
 ---
+
+
+
