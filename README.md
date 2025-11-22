@@ -16,17 +16,19 @@ This Chrome extension allows you to rename any browser tab to a custom title. It
 
 ## How to Install (Developer Mode)
 
-1. Download this repository as ZIP  
-2. Extract the ZIP  
-3. Open Chrome and go to:  
+1. Download the ZIP from repo 
+3. Extract the ZIP  
+4. Open Chrome and go to:  
    `chrome://extensions/`
-4. Enable Developer Mode (top right)  
-5. Click **Load unpacked**  
-6. Select the extracted folder
+5. Enable Developer Mode (top right)  
+6. Click **Load unpacked**  
+7. Select the extracted folder
 
 The extension will now appear in your Chrome toolbar.
 
 ---
+Example:
+<img width="1336" height="229" alt="image" src="https://github.com/user-attachments/assets/5faa721e-bbec-4f46-8fba-25964ef08d27" />
 
 
 
