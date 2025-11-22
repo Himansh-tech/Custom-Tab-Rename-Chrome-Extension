@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        width: 240px;
+        padding: 12px;
+        background-color: #f9f9f9;
+      }
+      h2 {
+        font-size: 16px;
+        margin-bottom: 8px;
+        text-align: center;
+      }
+      input {
+        width: 100%;
+        padding: 6px;
+        border: 1px solid #ccc;
+        border-radius: 6px;
+        box-sizing: border-box;
+      }
+      button {
+        margin-top: 8px;
+        width: 100%;
+        background-color: #007bff;
+        border: none;
+        color: white;
+        padding: 8px;
+        border-radius: 6px;
+        cursor: pointer;
+      }
+      button:hover {
+        background-color: #0056b3;
+      }
+      p {
+        text-align: center;
+        font-size: 12px;
+        color: #555;
+        margin-top: 6px;
+      }
+    </style>
+  </head>
+  <body>
+    <h2>Rename Tab</h2>
+    <input id="titleInput" type="text" placeholder="Enter new tab name" />
+    <button id="applyBtn">Apply</button>
+    <p id="status"></p>
+    <script src="popup.js"></script>
+  </body>
+</html>

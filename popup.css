@@ -1,0 +1,36 @@
+.container {
+  width: 260px;
+  text-align: center;
+  font-family: "Segoe UI", sans-serif;
+  color: #333;
+  padding: 15px;
+}
+h1 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+#title-input {
+  width: 90%;
+  padding: 6px;
+  font-size: 14px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+#save-btn {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  padding: 8px 14px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+#save-btn:hover {
+  background-color: #0056b3;
+}
+#status-text {
+  margin-top: 8px;
+  font-size: 13px;
+  color: #555;
+}
